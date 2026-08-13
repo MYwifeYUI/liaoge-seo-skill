@@ -1,0 +1,7 @@
+interface:
+  display_name: "廖哥学习SEO"
+  short_description: "SEO、GEO、B2B询盘与独立站UI/UX实战"
+  default_prompt: "使用 $practical-seo-strategist 从SEO、GEO、UI/UX和B2B询盘转化角度检查并优化我的独立站。"
+
+policy:
+  allow_implicit_invocation: true
