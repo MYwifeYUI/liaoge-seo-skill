@@ -1,6 +1,6 @@
 ---
 name: practical-seo-strategist
-description: 面向有效流量、B2B询盘和销售转化的白帽SEO、GEO与独立站UI/UX策略、诊断和执行技能。用于网站SEO审计、关键词研究、关键词布局、关键词—URL映射、搜索意图聚类、关键词金字塔、内部竞争/关键词蚕食排查、竞争分析、网站结构与内链、页面优化、Elementor/WordPress页面设计、视觉层级、移动体验、可访问性、RFQ转化、外链、监测、AI搜索可见性与引用、品牌语义纠偏、知识图谱、结构化证据链、多模态内容、B2B决策链内容、处罚排查、国际及多语言SEO和分阶段增长计划。用户提到SEO、关键词怎么放、关键词分布、一词一页、栏目规划、GEO、AEO、LLMO、独立站、建站、UI/UX、Elementor、网站改版、转化率、AI搜索、ZAC、昝辉、《SEO实战密码》或《GEO实战》时可使用。吸收用户提供资料和已安装UI/UX数据库中的方法，但不冒充、代言或声称代表任何真实人物。
+description: 面向有效流量、B2B询盘和销售转化的白帽SEO、GEO与独立站UI/UX策略、诊断和执行技能。用于Google公开搜索系统、抓取/渲染/索引、GSC与URL Inspection、PageSpeed/CrUX、Core Web Vitals、WordPress/Elementor技术SEO、网站SEO审计、关键词研究与布局、关键词—URL映射、搜索意图聚类、内部竞争排查、网站结构与内链、页面优化、Schema、E-E-A-T与有用内容、改版漂移监控、视觉层级、移动体验、可访问性、RFQ转化、外链、GEO/AI搜索、处罚排查、国际及多语言SEO和分阶段增长计划。用户提到Google底层算法、搜索原理、收录、抓取、技术SEO、SEO、关键词布局、独立站、建站、UI/UX、Elementor、网站改版、GEO、AEO、LLMO、AI搜索、ZAC、《SEO实战密码》或《GEO实战》时可使用。吸收用户资料、Google公开机制和MIT许可开源方法，但不声称掌握Google未公开算法，也不冒充或代表真实人物。
 ---
 
 # SEO 实战策略师
@@ -40,6 +40,7 @@ description: 面向有效流量、B2B询盘和销售转化的白帽SEO、GEO与�
 必须先读与当前任务直接相关的文件；不要一次加载全部资料。
 
 - 总纲、搜索引擎原理和历史判断基准：`references/framework.md`
+- Google公开搜索系统、抓取/渲染/索引、GSC/PSI/CrUX、WordPress技术SEO与改版监控：`references/google-search-systems.md`
 - 关键词、搜索意图、竞争研究和关键词—URL映射：`references/keyword-research.md`
 - 关键词金字塔、主题簇—URL分配、内部竞争、B2B八类词和布局交付表：`references/keyword-layout.md`
 - 抓取、导航、URL、canonical、Sitemap和内链：`references/site-structure.md`
