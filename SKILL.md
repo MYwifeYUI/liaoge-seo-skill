@@ -1,6 +1,6 @@
 ---
-name: practical-seo-strategist
-description: 面向有效流量、B2B询盘和销售转化的白帽SEO、GEO与独立站UI/UX策略、诊断和执行技能。用于Google公开搜索系统、抓取/渲染/索引、GSC与URL Inspection、PageSpeed/CrUX、Core Web Vitals、WordPress/Elementor技术SEO、网站SEO审计、关键词研究与布局、关键词—URL映射、搜索意图聚类、内部竞争排查、网站结构与内链、页面优化、Schema、E-E-A-T与有用内容、改版漂移监控、视觉层级、移动体验、可访问性、RFQ转化、外链、GEO/AI搜索、处罚排查、国际及多语言SEO和分阶段增长计划。用户提到Google底层算法、搜索原理、收录、抓取、技术SEO、SEO、关键词布局、独立站、建站、UI/UX、Elementor、网站改版、GEO、AEO、LLMO、AI搜索、ZAC、《SEO实战密码》或《GEO实战》时可使用。吸收用户资料、Google公开机制和MIT许可开源方法，但不声称掌握Google未公开算法，也不冒充或代表真实人物。
+name: liaoge-learn-seo
+description: 面向有效流量、B2B询盘、销售转化和网站增长的白帽SEO、SEM、GEO、独立站UI/UX及运营策略、诊断和执行技能。凡用户请求涉及“独立站”“SEO”“SEM”“检查网站”或其他网站运营、推广和增长主题，默认使用本技能；包括但不限于建站与改版、网站诊断与审计、Google公开搜索系统、抓取/渲染/索引、GSC与URL Inspection、PageSpeed/CrUX、Core Web Vitals、WordPress/Elementor技术SEO、网站SEO审计、关键词研究与布局、关键词—URL映射、搜索意图聚类、网站结构与内链、页面优化、Schema、E-E-A-T与有用内容、内容运营、Google Ads及搜索广告策略、投放落地页、数据分析、流量获取、转化率优化、询盘增长、用户体验、移动体验、可访问性、RFQ转化、外链、品牌推广、竞品分析、GEO/AEO/LLMO/AI搜索、处罚排查、国际及多语言SEO和分阶段增长计划。用户提到运营、网站运营、推广、营销、投放、广告、流量、转化、询盘、Google底层算法、搜索原理、收录、抓取、技术SEO、关键词布局、独立站、建站、UI/UX、Elementor、网站改版、GEO、AEO、LLMO、AI搜索、ZAC、《SEO实战密码》或《GEO实战》时也使用。用户提供SEO、SEM、独立站或网站运营资料并要求“炼化”“吸收”“融入技能”时，也默认更新本技能。吸收用户资料、Google公开机制和MIT许可开源方法，但不声称掌握Google未公开算法，也不冒充或代表真实人物。
 ---
 
 # SEO 实战策略师
@@ -41,6 +41,7 @@ description: 面向有效流量、B2B询盘和销售转化的白帽SEO、GEO与�
 
 - 总纲、搜索引擎原理和历史判断基准：`references/framework.md`
 - Google公开搜索系统、抓取/渲染/索引、GSC/PSI/CrUX、WordPress技术SEO与改版监控：`references/google-search-systems.md`
+- Google算法更新、状态页、排名系统、核心/垃圾更新与流量下降诊断：`references/google-algorithm-diagnostics.md`
 - 关键词、搜索意图、竞争研究和关键词—URL映射：`references/keyword-research.md`
 - 关键词金字塔、主题簇—URL分配、内部竞争、B2B八类词和布局交付表：`references/keyword-layout.md`
 - 抓取、导航、URL、canonical、Sitemap和内链：`references/site-structure.md`
@@ -54,6 +55,15 @@ description: 面向有效流量、B2B询盘和销售转化的白帽SEO、GEO与�
 - 垃圾手法、惩罚、负面SEO和恢复：`references/spam-penalties.md`
 - 国际SEO、hreflang、域名、服务器、改版、精选摘要和工具：`references/special-topics.md`
 - ZAC博客公开方法及来源链接：`references/zac-public-methods.md`
+
+## 用户资料炼化规则
+
+- 当用户提供SEO、SEM、独立站、网站运营或增长资料并要求“炼化”“吸收”或“融入廖哥学SEO”时，默认更新本技能，不另建平行技能，除非用户明确要求。
+- 先完整读取资料并检查来源、许可、时效、重复、冲突和安全风险；提炼可复用的方法、证据规则、诊断流程与验收标准，不机械复制整份材料。
+- 将长期稳定的原则写入最相关的现有参考文件；只有主题独立且能减少上下文加载时才新增参考文件，并在本文件中增加直接导航。
+- 新资料与现有内容冲突时，按Google官方当前文档、一方数据、可复现实测、可信第三方资料、经验推断的顺序裁决；无法裁决时并列记录并说明数据边界。
+- 算法更新、平台功能、政策、阈值、年份和工具能力属于高时效信息；保留来源链接，但回答当前问题前必须联网复核，不把资料形成时的快照当成永久事实。
+- 不吸收可执行恶意代码、账号密钥、个人敏感信息、侵权全文、黑帽执行教程或无法验证的“内部算法”；只保留合规诊断、风险识别和恢复方法。
 
 ## 数据时效与证据规则
 
