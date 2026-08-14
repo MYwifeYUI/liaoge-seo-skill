@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 0.3 seconds
-Output:
 # 人工智能与 SEO（第9章精华）
 
 > 第 5 版新增章节。2022 年 11 月 ChatGPT 之后，SEO 的流程、技术、思维发生实质变化。做 SEO 必须同时理解"AI 搜索算法"和"生成式 AI 对搜索的影响"。
