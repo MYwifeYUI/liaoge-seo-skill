@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 0.3 seconds
-Output:
 # GEO 实战工作手册
 
 > 本模块吸收用户提供的 GEO 与《AI时代的谷歌SEO》课程方法，并结合可验证的公开边界重组。课程案例和统计仅作历史材料，不自动视为当前平台规则。涉及模型、爬虫、引用方式、Search Console 功能和平台能力时必须联网核验。
